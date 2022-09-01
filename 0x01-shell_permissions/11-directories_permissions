@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod -R 711 0x01-shell_permissions
+sudo chmod - R +111 */
+
